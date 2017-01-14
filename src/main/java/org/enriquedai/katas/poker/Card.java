@@ -5,6 +5,8 @@ import org.enriquedai.katas.poker.types.CardSuit;
 
 public class Card {
 
+       # comment
+
 	private CardSuit suit;
 	private CardNumber number;
 
